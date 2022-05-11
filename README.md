@@ -1,7 +1,7 @@
 ![This is an image](https://our-gallery.cf/jmvrp/pythonrealmlogo.png)
 
 # Python Realm
-Repo to store all my python projects.
+Repo to store all my small python projects and code snippets.
 
 ## Project List
 - [Debug Symbols](https://github.com/VishalRashmika/Python-Realm/tree/main/DEBUG-SYMBOLS)
